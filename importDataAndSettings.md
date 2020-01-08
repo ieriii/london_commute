@@ -2,7 +2,7 @@
 id: litvis
 
 narrative-schemas:
-  - ../narrative-schemas/courseworkPG.yml
+  - narrative-schemas/vizSchema.yml
 
 elm:
   dependencies:
